@@ -9,7 +9,7 @@
 What the package does (one paragraph).
 }
 \author{
-\strong{Maintainer}: Paritosh Kumar Roy \email{first.last@example.com} (YOUR-ORCID-ID)
+\strong{Maintainer}: Paritosh Kumar Roy \email{pkroy99@gmail.com} (YOUR-ORCID-ID)
 
 }
 \keyword{internal}

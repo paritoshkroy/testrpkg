@@ -1,11 +1,16 @@
 Package: testrpkg
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
+Depends:
+    R (>= 3.2)
+Imports:
+    lme4,
+    sjPlot
 Authors@R: 
     person(given = "Paritosh Kumar",
            family = "Roy",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "pkroy99@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
